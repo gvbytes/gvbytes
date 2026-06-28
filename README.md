@@ -14,47 +14,47 @@
 
 ### 👨‍💻 **About Me**
 
-I am a self-directed **security researcher** and **software engineer** specializing in application threat modeling, reverse engineering, and AI supply-chain security auditing. Driven by an intense curiosity regarding operating system internals, cryptography, and modern software vulnerability surfaces, I build open-source security tools that bridge theoretical risk analysis with practical, code-level execution.
+I am a security researcher and software developer focused on application threat modeling, reverse engineering, and AI supply-chain security. I like digging into operating system internals, cryptography, and real-world software flaws to build tools that make systems harder to exploit.
 
-- 🛡️ **Research Focus**: AI-Agent Tooling Security (MCP), Electron Application Security, and Cryptographic File Systems.
-- 🚀 **Founder**: Developing [TrustHouse](https://github.com/gvbytes/trusthouse), an identity verification & digital trust platform for India's domestic workforce.
+- 🛡️ **Core Focus**: Security auditing for AI agent tools (MCP), Electron application security, and cryptographic storage.
+- 🚀 **Active Project**: Building [TrustHouse](https://github.com/gvbytes/trusthouse), an identity verification and digital trust platform for domestic workers.
 
 ---
 
-### 🛠️ **Technical Arsenal & Core Competencies**
+### 🛠️ **Technical Arsenal**
 
 <div align="center">
 
-| Domain | Tools & Methodologies |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Security Methodologies** | ![STRIDE](https://img.shields.io/badge/STRIDE-00E5FF?style=flat-square) ![DREAD](https://img.shields.io/badge/DREAD-00E5FF?style=flat-square) ![PASTA](https://img.shields.io/badge/PASTA-00E5FF?style=flat-square) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-FF1744?style=flat-square) ![CWE](https://img.shields.io/badge/CWE-FF1744?style=flat-square) ![CVSS v3.1](https://img.shields.io/badge/CVSS_v3.1-FF1744?style=flat-square) |
+| **Security Frameworks** | ![STRIDE](https://img.shields.io/badge/STRIDE-00E5FF?style=flat-square) ![DREAD](https://img.shields.io/badge/DREAD-00E5FF?style=flat-square) ![PASTA](https://img.shields.io/badge/PASTA-00E5FF?style=flat-square) ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-FF1744?style=flat-square) ![CWE](https://img.shields.io/badge/CWE-FF1744?style=flat-square) ![CVSS v3.1](https://img.shields.io/badge/CVSS_v3.1-FF1744?style=flat-square) |
 | **Systems & Reverse Eng.** | ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![ASAR Decompilation](https://img.shields.io/badge/ASAR_Extraction-000?style=flat-square) ![V8 Bytecode](https://img.shields.io/badge/V8_Bytecode-F14E32?style=flat-square) ![Static Analysis](https://img.shields.io/badge/Static_Analysis-00E676?style=flat-square) |
-| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Full-Stack & Database** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Full-Stack Stack** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 
 </div>
 
 ---
 
-### 🏆 **Featured Primary Research & Security Projects**
+### 🏆 **Featured Projects**
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔐 TrustHouse Identity Platform</h3>
-      <p align="center"><i>Digital Trust & Verification Ecosystem</i></p>
+      <p align="center"><i>Digital Trust Ecosystem</i></p>
       <ul>
-        <li>Incorporate eKYC, SMS auth, and Razorpay APIs for India's domestic worker economy.</li>
-        <li>Authored a formal 37KB <a href="https://github.com/gvbytes/trusthouse/blob/main/THREAT_MODEL.md"><b>THREAT_MODEL.md</b></a> analyzing trust boundaries (AES-256-GCM, HMAC validation, rate-limiting).</li>
+        <li>Built an identity verification and payment workflow using eKYC, SMS authentication, and Razorpay APIs.</li>
+        <li>Authored a detailed <a href="https://github.com/gvbytes/trusthouse/blob/main/THREAT_MODEL.md"><b>THREAT_MODEL.md</b></a> covering AES-256-GCM data encryption, HMAC webhook validation, and rate limiting.</li>
       </ul>
       <p align="center"><a href="https://github.com/gvbytes/trusthouse"><b>View Repository »</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ SRM Secure Browser Audit</h3>
-      <p align="center"><i>Static Vulnerability & Lockdown Evasion Review</i></p>
+      <p align="center"><i>Security Audit & Bypass Analysis</i></p>
       <ul>
-        <li>Discovered 11 critical/high findings in Electron exam proctoring software (v1.0.22).</li>
-        <li>Documented complete proctoring bypass vectors and engineered native cryptographic attestation defenses.</li>
+        <li>Discovered 11 vulnerabilities (including client-side secret exposure and weak lockdown hooks) in an Electron exam proctoring app.</li>
+        <li>Documented evasion vectors and proposed native cryptographic attestation controls.</li>
       </ul>
       <p align="center"><a href="https://github.com/gvbytes/srm-secure-browser-vulnerabilities"><b>View Repository »</b></a></p>
     </td>
@@ -62,19 +62,19 @@ I am a self-directed **security researcher** and **software engineer** specializ
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🤖 MCP Security Auditor</h3>
-      <p align="center"><i>Static Analysis Scanner for AI Tool Schemas</i></p>
+      <p align="center"><i>Static Analysis for AI Tool Schemas</i></p>
       <ul>
-        <li>Passively inspects JSON-RPC schemas exposed by Model Context Protocol (MCP) servers.</li>
-        <li>Detects tool-injection risks, prompt poisoning, privilege escalation, and credential leaks.</li>
+        <li>Wrote a Python tool to inspect JSON-RPC schemas exposed by Model Context Protocol (MCP) servers.</li>
+        <li>Flags command injection risks, prompt poisoning vectors, and sensitive file leaks before deployment.</li>
       </ul>
       <p align="center"><a href="https://github.com/gvbytes/mcp-security-auditor"><b>View Repository »</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ ThreatMind AI Workspace</h3>
-      <p align="center"><i>Visual STRIDE Threat Modeling Engine</i></p>
+      <h3 align="center">⚡ ThreatMind AI</h3>
+      <p align="center"><i>Visual Threat Modeling Workspace</i></p>
       <ul>
-        <li>Browser-based workspace automating system architecture threat categorization.</li>
-        <li>Generates dynamic attack trees via Mermaid.js with offline heuristic and LLM-assisted modes.</li>
+        <li>Built a browser workspace that converts system architecture diagrams into structured STRIDE threat registers.</li>
+        <li>Generates dynamic Mermaid.js attack trees using local heuristics or LLM analysis.</li>
       </ul>
       <p align="center"><a href="https://github.com/gvbytes/threatmind-ai"><b>View Repository »</b></a></p>
     </td>
@@ -83,19 +83,19 @@ I am a self-directed **security researcher** and **software engineer** specializ
 
 ---
 
-### 🎓 **Professional Credentials & Training**
+### 🎓 **Certifications & Practice**
 
 - 📜 **Certified LLM Security Professional (CLLMSP)** — Red Team Leaders  
-  *Certified in LLM attack vectors, prompt injection defenses, model exfiltration, and AI agent safety.*  
+  *Covers prompt injection defenses, model exfiltration vectors, and AI agent security controls.*  
   👉 [Verify Credential #2ca61171f2ab01d7](https://courses.redteamleaders.com/exam-completion/2ca61171f2ab01d7)
 
-- 🎯 **TryHackMe Active Labs** — Red & Blue Team Methodologies  
-  *Hands-on simulations in web exploitation, network forensics, SOC operations, and privilege escalation.*  
+- 🎯 **TryHackMe Labs**  
+  *Active hands-on practice in web application security, network forensics, and Linux privilege escalation.*  
   👉 [View TryHackMe Profile](https://tryhackme.com/p/gvbytes)
 
 ---
 
-### 📊 **GitHub Activity & Statistics**
+### 📊 **GitHub Activity**
 
 <div align="center">
 
@@ -107,5 +107,5 @@ I am a self-directed **security researcher** and **software engineer** specializ
 <br />
 
 <div align="center">
-  <sub>Designed with precision by <b>Gaurav Verma</b> • <a href="https://gvbytes.com">gvbytes.com</a></sub>
+  <sub>Built by <b>Gaurav Verma</b> • <a href="https://gvbytes.com">gvbytes.com</a></sub>
 </div>
