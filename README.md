@@ -2,7 +2,6 @@
 
   # ⚡ GAURAV VERMA ⚡
   ### **Systems Security Engineer & Security Researcher**
-  *Candidate for Bachelor of Cybersecurity (B.Cyber) @ IIT Kanpur*
 
   [![Portfolio Website](https://img.shields.io/badge/Website-gvbytes.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gvbytes.com)
   [![GitHub Profile](https://img.shields.io/badge/GitHub-gvbytes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gvbytes)
@@ -18,7 +17,6 @@
 I am a self-directed **security researcher** and **software engineer** specializing in application threat modeling, reverse engineering, and AI supply-chain security auditing. Driven by an intense curiosity regarding operating system internals, cryptography, and modern software vulnerability surfaces, I build open-source security tools that bridge theoretical risk analysis with practical, code-level execution.
 
 - 🛡️ **Research Focus**: AI-Agent Tooling Security (MCP), Electron Application Security, and Cryptographic File Systems.
-- 🎖️ **Leadership**: Former **National Cadet Corps (NCC) Cadet** (Holder of the NCC 'B' Certificate).
 - 🚀 **Founder**: Developing [TrustHouse](https://github.com/gvbytes/trusthouse), an identity verification & digital trust platform for India's domestic workforce.
 
 ---
@@ -94,9 +92,6 @@ I am a self-directed **security researcher** and **software engineer** specializ
 - 🎯 **TryHackMe Active Labs** — Red & Blue Team Methodologies  
   *Hands-on simulations in web exploitation, network forensics, SOC operations, and privilege escalation.*  
   👉 [View TryHackMe Profile](https://tryhackme.com/p/gvbytes)
-
-- 🎖️ **National Cadet Corps (NCC) 'B' Certificate**  
-  *Disciplined training in leadership, physical endurance, and tactical operations.*
 
 ---
 
