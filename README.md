@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ⚡ GAURAV VERMA ⚡
+  #  GAURAV VERMA 
   ### **Systems Security Engineer & Security Researcher**
 
   [![Portfolio Website](https://img.shields.io/badge/Website-gvbytes.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://gvbytes.com)
@@ -12,12 +12,12 @@
 
 ---
 
-### 👨‍💻 **About Me**
+### 👨‍ **About Me**
 
 I am a security researcher and software developer focused on application threat modeling, reverse engineering, and AI supply-chain security. I like digging into operating system internals, cryptography, and real-world software flaws to build tools that make systems harder to exploit.
 
-- 🛡️ **Core Focus**: Security auditing for AI agent tools (MCP), Electron application security, and cryptographic storage.
-- 🚀 **Active Project**: Building [TrustHouse](https://github.com/gvbytes/trusthouse), an identity verification and digital trust platform for domestic workers.
+-  **Core Focus**: Security auditing for AI agent tools (MCP), Electron application security, and cryptographic storage.
+-  **Active Project**: Building [TrustHouse](https://github.com/gvbytes/trusthouse), an identity verification and digital trust platform for domestic workers.
 
 ---
 
@@ -50,7 +50,7 @@ I am a security researcher and software developer focused on application threat 
       <p align="center"><a href="https://github.com/gvbytes/trusthouse"><b>View Repository »</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ SRM Secure Browser Audit</h3>
+      <h3 align="center"> SRM Secure Browser Audit</h3>
       <p align="center"><i>Security Audit & Bypass Analysis</i></p>
       <ul>
         <li>Discovered 11 vulnerabilities (including client-side secret exposure and weak lockdown hooks) in an Electron exam proctoring app.</li>
@@ -70,7 +70,7 @@ I am a security researcher and software developer focused on application threat 
       <p align="center"><a href="https://github.com/gvbytes/mcp-security-auditor"><b>View Repository »</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ ThreatMind AI</h3>
+      <h3 align="center"> ThreatMind AI</h3>
       <p align="center"><i>Visual Threat Modeling Workspace</i></p>
       <ul>
         <li>Built a browser workspace that converts system architecture diagrams into structured STRIDE threat registers.</li>
