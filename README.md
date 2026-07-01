@@ -27,4 +27,4 @@ Developer and security researcher focusing on system internals, network protocol
   <img alt="Snake animation" src="https://raw.githubusercontent.com/gvbytes/gvbytes/output/github-snake-dark.svg" width="800" />
 </picture>
 
-https://github.com/gvbytes/gvbytes/raw/main/assets/dancing.mp4
+<img src="assets/dancing.gif" alt="Dancing" />
