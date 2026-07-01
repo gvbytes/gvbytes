@@ -78,7 +78,7 @@
 <br><br>
 
 <!-- ═══════ PROFILE VIEWS ═══════ -->
-<img src="https://komarev.com/ghpvc/?username=gvbytes&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Profile%20views-4169-00d4ff?style=for-the-badge&logo=eye&logoColor=white" alt="Profile views" />
 
 <!-- ═══════ FOOTER WAVE ═══════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06060e,50:0c1445,100:00d4ff&section=footer" width="100%" alt="Footer" />
