@@ -19,11 +19,7 @@ Developer and security researcher focusing on system internals, network protocol
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
   <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" height="150" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gvbytes&theme=transparent&hide_border=true&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=e2e2f0&sideNums=e2e2f0&currStreakNum=e2e2f0&dates=a5a5c0&background=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gvbytes&theme=default&hide_border=true" />
-  <img alt="streak-stats" src="https://streak-stats.demolab.com/?user=gvbytes&theme=transparent&hide_border=true&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=e2e2f0&sideNums=e2e2f0&currStreakNum=e2e2f0&dates=a5a5c0&background=00000000" height="150" />
-</picture>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gvbytes/gvbytes/output/github-snake-dark.svg" />
