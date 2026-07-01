@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120">
+<style>
+  .letter {
+    fill: none;
+    stroke: #00d4ff;
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    animation-duration: 1.6s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+  }
+  @media (prefers-color-scheme: light) {
+    .letter { stroke: #0891b2; stroke-width: 3; }
+    .underline { stroke: #0891b2 !important; }
+  }
+  .l0 { stroke-dasharray: 300; stroke-dashoffset: 300; animation-name: w0; animation-delay: 0s; }
+  .l1 { stroke-dasharray: 220; stroke-dashoffset: 220; animation-name: w1; animation-delay: 0.2s; }
+  .l2 { stroke-dasharray: 250; stroke-dashoffset: 250; animation-name: w2; animation-delay: 0.4s; }
+  .l3 { stroke-dasharray: 200; stroke-dashoffset: 200; animation-name: w3; animation-delay: 0.6s; }
+  .l4 { stroke-dasharray: 250; stroke-dashoffset: 250; animation-name: w4; animation-delay: 0.8s; }
+  .l5 { stroke-dasharray: 220; stroke-dashoffset: 220; animation-name: w5; animation-delay: 1.0s; }
+  .underline {
+    fill: none;
+    stroke: #00d4ff;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-dasharray: 420;
+    stroke-dashoffset: 420;
+    animation: drawline 1.2s ease-in-out 1.3s forwards;
+  }
+  @keyframes w0 { to { stroke-dashoffset: 0; } }
+  @keyframes w1 { to { stroke-dashoffset: 0; } }
+  @keyframes w2 { to { stroke-dashoffset: 0; } }
+  @keyframes w3 { to { stroke-dashoffset: 0; } }
+  @keyframes w4 { to { stroke-dashoffset: 0; } }
+  @keyframes w5 { to { stroke-dashoffset: 0; } }
+  @keyframes drawline { to { stroke-dashoffset: 0; } }
+</style>
+
+<!-- G -->
+<path class="letter l0" d="M 95 25 Q 60 10, 40 30 Q 15 55, 40 80 Q 60 100, 90 85 L 90 60 L 70 60" />
+<!-- a -->
+<path class="letter l1" d="M 120 55 Q 120 40, 140 38 Q 160 38, 160 55 L 160 90 Q 160 90, 140 92 Q 120 90, 120 75 Q 120 60, 140 58 Q 160 58, 160 70" />
+<!-- u -->
+<path class="letter l2" d="M 185 55 L 185 80 Q 185 95, 205 95 Q 225 95, 225 80 L 225 55" />
+<!-- r -->
+<path class="letter l3" d="M 250 55 L 250 92 M 250 70 Q 255 55, 275 55" />
+<!-- a -->
+<path class="letter l4" d="M 295 55 Q 295 40, 315 38 Q 335 38, 335 55 L 335 90 Q 335 90, 315 92 Q 295 90, 295 75 Q 295 60, 315 58 Q 335 58, 335 70" />
+<!-- v -->
+<path class="letter l5" d="M 360 55 L 380 95 L 400 55" />
+
+<!-- Underline -->
+<path class="underline" d="M 35 108 Q 220 100, 410 108" />
+</svg>

@@ -1,0 +1,46 @@
+<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <rect class="main-rect" x="0.5" y="0.5" width="799" height="99" fill="#ffffff" fill-opacity="0" stroke-width="1" rx="4"/>
+  
+  <defs>
+    <clipPath id="master-clip"><rect x="0" y="0" width="800" height="100"/></clipPath>
+    <style type="text/css"><![CDATA[
+      .text-common { 
+        dominant-baseline: middle; 
+        text-rendering: optimizeLegibility;
+        shape-rendering: geometricPrecision;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 28px;
+        font-weight: 900;
+        letter-spacing: 0.1em;
+        fill: #ffffff;
+      }
+      .main-rect { stroke: #6a6a6a; }
+      .tag-1-color { fill: #00d4ff; }
+      .tag-2-color { fill: #f59e0b; }
+      .normal-color { fill: #e2e2f0; }
+      .cursor-color { fill: #00d4ff; }
+
+      @media (prefers-color-scheme: light) {
+        .text-common { fill: #1a1a2e; }
+        .tag-1-color { fill: #0891b2; }
+        .tag-2-color { fill: #d97706; }
+        .normal-color { fill: #374151; }
+        .cursor-color { fill: #0891b2; }
+        .main-rect { stroke: #d1d5db; }
+      }
+
+      .blink { animation: blinker 1s step-end infinite; }
+      @keyframes blinker { 50% { opacity: 0; } }
+    ]]></style>
+  </defs>
+  
+  <g clip-path="url(#master-clip)">
+    <text class="text-common" y="50" xml:space="preserve">
+      <tspan x="50" opacity="0" class="tag-1-color">#<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.3s" fill="freeze"/>CyberSecurity</tspan>
+      <tspan class="normal-color" opacity="0">,<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.6s" fill="freeze"/></tspan>
+      <tspan opacity="0" class="tag-2-color"> #<animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.9s" fill="freeze"/>AlwaysExploring</tspan>
+      <tspan class="normal-color" opacity="0"> and Stay Curious<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.2s" fill="freeze"/></tspan>
+      <tspan class="cursor-color blink" opacity="0">_<animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.5s" fill="freeze"/></tspan>
+    </text>
+  </g>
+</svg>
