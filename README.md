@@ -1,73 +1,86 @@
 <div align="center">
 
+<!-- ═══════ HEADER WAVE ═══════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:06060e,50:0c1445,100:00d4ff&text=Gaurav%20Verma&fontColor=e2e2f0&fontSize=42&fontAlignY=35&animation=twinkling&desc=Cybersecurity%20%7C%20Builder%20%7C%20Always%20Exploring&descSize=16&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
-  <img src="assets/banner-name.svg" alt="Gaurav" height="120"><br>
+<!-- ═══════ SOCIAL BADGES ═══════ -->
+<div>
+<a href="https://linkedin.com/in/gaurav-verma-550aa8418/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://x.com/gvbytes">
+  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" />
+</a>&nbsp;
+<a href="https://gvbytes.com">
+  <img src="https://img.shields.io/badge/Portfolio-06060e?logo=googlechrome&logoColor=00d4ff&style=for-the-badge" alt="Portfolio" />
+</a>
+</div>
+<br>
 
+<!-- ═══════ TYPING EFFECT ═══════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%23CyberSecurity+%7C+%23AlwaysExploring;Building+tools+that+break+and+defend+systems" alt="Typing SVG" />
+</a>
+<br><br>
 
-  <div>
-  <a href="https://linkedin.com/in/gaurav-verma-550aa8418/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" height="24">
-  </a>
-  &nbsp;
-  <a href="https://x.com/gvbytes">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" alt="X" height="24">
-  </a>
-  &nbsp;
-  <a href="https://gvbytes.com">
-    <img src="https://img.shields.io/badge/Portfolio-06060e?logo=googlechrome&logoColor=white&style=flat" alt="Portfolio" height="24">
-  </a>
-  </div>
-  <br>
-
-
-  <img src="assets/hero-text.svg" alt="motto" height="100">
-  <br><br>
-
-
-  <a href="https://github.com/gvbytes">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
-        <img alt="user-stats" src="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" width="420">
-      </picture>
-  </a>
-  <br>
-
-
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">Technical Stack</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /><br/>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br/>
-          <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/gvbytes">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gvbytes&theme=transparent&hide_border=true&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=e2e2f0&sideNums=e2e2f0&currStreakNum=e2e2f0&dates=a5a5c0&background=00000000" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gvbytes&theme=default&hide_border=true" />
-            <img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gvbytes&theme=transparent&hide_border=true&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=e2e2f0&sideNums=e2e2f0&currStreakNum=e2e2f0&dates=a5a5c0&background=00000000" />
-          </picture>
+<!-- ═══════ STATS + TECH STACK TABLE ═══════ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠 Technical Stack</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,nodejs,express,postgres,linux,bash,docker,git&perline=4&theme=dark" alt="Tech Stack" />
         </a>
-      </td>
-    </tr>
-  </table>
-  <br>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/gvbytes">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gvbytes&theme=transparent&hide_border=true&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=e2e2f0&sideNums=e2e2f0&currStreakNum=e2e2f0&dates=a5a5c0&background=00000000" />
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gvbytes&theme=default&hide_border=true" />
+          <img alt="streak-stats" src="https://streak-stats.demolab.com/?user=gvbytes&theme=transparent&hide_border=true&ring=00d4ff&fire=f59e0b&currStreakLabel=00d4ff&sideLabels=e2e2f0&sideNums=e2e2f0&currStreakNum=e2e2f0&dates=a5a5c0&background=00000000" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!-- ═══════ GITHUB STATS CARDS ═══════ -->
+<a href="https://github.com/gvbytes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" width="420" />
+    </picture>
+</a>
+<a href="https://github.com/gvbytes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=default&hide_border=true" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000" width="350" />
+    </picture>
+</a>
+<br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=gvbytes&label=Profile%20views&color=00d4ff&style=flat-square" alt="Profile views" />
+<!-- ═══════ ACTIVITY GRAPH ═══════ -->
+<a href="https://github.com/gvbytes">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gvbytes&theme=react-dark&hide_border=true&bg_color=00000000&color=e2e2f0&line=00d4ff&point=f59e0b&area=true&area_color=00d4ff" width="95%" alt="Activity Graph" />
+</a>
+<br><br>
 
+<!-- ═══════ SNAKE CONTRIBUTION ═══════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gvbytes/gvbytes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gvbytes/gvbytes/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gvbytes/gvbytes/output/github-snake-dark.svg" width="100%" />
+</picture>
+<br><br>
+
+<!-- ═══════ PROFILE VIEWS ═══════ -->
+<img src="https://komarev.com/ghpvc/?username=gvbytes&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile views" />
+
+<!-- ═══════ FOOTER WAVE ═══════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06060e,50:0c1445,100:00d4ff&section=footer" width="100%" alt="Footer" />
 
 </div>
