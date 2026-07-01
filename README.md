@@ -49,16 +49,16 @@
 <!-- ═══════ GITHUB STATS CARDS ═══════ -->
 <a href="https://github.com/gvbytes">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" width="420" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
+      <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" width="420" />
     </picture>
 </a>
 <a href="https://github.com/gvbytes">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=default&hide_border=true" />
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000" width="350" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=default&hide_border=true" />
+      <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000" width="350" />
     </picture>
 </a>
 <br><br>
