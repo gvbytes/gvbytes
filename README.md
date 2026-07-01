@@ -78,7 +78,9 @@
 <br><br>
 
 <!-- ═══════ PROFILE VIEWS ═══════ -->
-<img src="https://img.shields.io/badge/Profile%20views-4169-00d4ff?style=for-the-badge&logo=eye&logoColor=white" alt="Profile views" />
+<a href="https://github.com/gvbytes">
+  <img src="https://github-view-counter.vercel.app/api?username=gvbytes_main_counter&base=4168" alt="Profile views" />
+</a>
 
 <!-- ═══════ FOOTER WAVE ═══════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06060e,50:0c1445,100:00d4ff&section=footer" width="100%" alt="Footer" />
