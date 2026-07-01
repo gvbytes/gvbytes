@@ -1,0 +1,23 @@
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&amp;display=swap');
+      .box {
+        fill: transparent;
+        stroke: #333;
+        stroke-width: 1px;
+        rx: 5px;
+      }
+      .text1 { font-family: 'Fira Code', monospace; font-size: 18px; fill: #38BDF8; font-weight: 600; }
+      .text2 { font-family: 'Fira Code', monospace; font-size: 18px; fill: #F97316; font-weight: 600; }
+      .text3 { font-family: 'Fira Code', monospace; font-size: 18px; fill: #E2E8F0; font-weight: 600; }
+    </style>
+  </defs>
+  <rect x="10" y="10" width="580" height="80" class="box" />
+  <text x="30" y="55">
+    <tspan class="text1">#CyberSecurity</tspan>
+    <tspan class="text3">, </tspan>
+    <tspan class="text2">#EthicalHacking</tspan>
+    <tspan class="text3"> and Stay Awesome ✨_</tspan>
+  </text>
+</svg>

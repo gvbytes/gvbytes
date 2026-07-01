@@ -1,36 +1,48 @@
-<div align="center">
+<p align="center">
+  <img src="./header.svg" width="600" alt="Gaurav" />
+</p>
 
-# Gaurav Verma
-**Security Researcher & Software Developer**
+<p align="center">
+  <a href="https://linkedin.com/in/gaurav-verma-550aa8418/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gvbytes@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-[gvbytes.com](https://gvbytes.com) · [GitHub](https://github.com/gvbytes) · [TryHackMe](https://tryhackme.com/p/gvbytes)
-
-</div>
-
----
-
-I spend most of my time doing security research — poking at Electron apps, auditing AI tool interfaces, and figuring out how things break before someone else does. When I'm not breaking things, I'm building them.
-
-Currently a CS undergrad. I've been into low-level systems and security since my NCC days, and I just kept going deeper.
-
-### What I'm working on
-
-- **[TrustHouse](https://github.com/gvbytes/trusthouse)** — Identity verification platform for domestic workers in India. eKYC, QR ID cards, automated payouts. Still building this actively.
-- **[SRM Secure Browser Audit](https://github.com/gvbytes/srm-secure-browser-vulnerabilities)** — Found 13 vulnerabilities in my university's Electron-based exam browser. Hardcoded AES keys, client-side grading, unvalidated IPC. Reported to SRM, no response.
-- **[MCP Security Auditor](https://github.com/gvbytes/mcp-security-auditor)** — Quick Python tool that checks MCP server schemas for injection risks, file access, and prompt poisoning before you plug them into your LLM setup.
-- **[ThreatMind AI](https://github.com/gvbytes/threatmind-ai)** — Browser-based STRIDE threat modeling tool. Drop in your architecture, get a structured threat register and attack trees. Works offline too.
-
-### Certification
-
-**Certified LLM Security Professional (CLLMSP)** — Red Team Leaders · [Verify](https://courses.redteamleaders.com/exam-completion/2ca61171f2ab01d7)
-
-### Tools & languages I use regularly
-
-Python, JavaScript/TypeScript, C++, Node.js, React, Prisma, SQLite. For security work: static analysis, ASAR extraction, V8 bytecode review, Electron internals. Familiar with STRIDE, OWASP Top 10, CVSS, CWE.
-
----
+<p align="center">
+  <img src="./quote.svg" width="600" alt="Quote" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvbytes&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%" />
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Technical Stack</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/>
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/gvbytes">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=gvbytes&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<p align="center">
+  <a href="https://github.com/gvbytes">
+    <img src="https://github-readme-stats.vercel.app/api?username=gvbytes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" width="400" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gvbytes&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
+</p>
