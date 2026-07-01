@@ -20,9 +20,9 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
-    <img alt="GitHub Stats" src="assets/stats-dark.svg" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=default&hide_border=true&hide_rank=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gvbytes&show_icons=true&theme=transparent&hide_border=true&icon_color=00d4ff&title_color=00d4ff&text_color=e2e2f0&bg_color=00000000&hide_rank=true" height="150" />
   </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/dancing.gif" alt="Dancing" height="150" />
 </p>
 
