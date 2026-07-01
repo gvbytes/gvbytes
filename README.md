@@ -31,8 +31,3 @@ Developer and security researcher focusing on system internals, network protocol
   <img alt="Snake animation" src="https://raw.githubusercontent.com/gvbytes/gvbytes/output/github-snake-dark.svg" width="800" />
 </picture>
 
-<br>
-
-<a href="https://github.com/gvbytes">
-  <img src="https://github-view-counter.vercel.app/api?username=gvbytes_main_counter&base=4168" alt="Profile views" />
-</a>
