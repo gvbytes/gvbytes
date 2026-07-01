@@ -19,7 +19,7 @@
 
 <!-- ═══════ TYPING EFFECT ═══════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Programming,+Cybersecurity+and+Startups.;Building+things.+Interested+in+cybersecurity,+networking,+and+startups.;Working+on+http://trusthouse.in" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=4000&pause=2000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=Programming,+Cybersecurity+and+Startups.;Building+things.+Interested+in+cybersecurity,+networking,+and+startups.;Working+on+trusthouse.in" alt="Typing SVG" />
 </a>
 <br><br>
 
