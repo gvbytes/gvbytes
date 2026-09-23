@@ -17,7 +17,6 @@ I'm a cybersecurity student at **IIT Kanpur** (`'30`), focused on security resea
 - **[threatmind-ai](https://github.com/gvbytes/threatmind-ai)** — Automated threat modeling framework for web & cloud systems.
 - **[UGacads](https://github.com/gvbytes/UGacads)** — Algorithmic Academic Pathway & Template Generator for IIT Kanpur undergraduates.
 - **[Forge](https://github.com/gvbytes/Forge)** — A Small orchestration model with Monaco-based web IDE and interactive terminal.
-- **[mcp-security-auditor](https://github.com/gvbytes/mcp-security-auditor)** — mcp server static analysis
 ---
 
 #### Tech & Stack
