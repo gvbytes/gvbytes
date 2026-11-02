@@ -1,6 +1,6 @@
 _> I'm Gaurav
 
-I'm a cybersecurity student at **IIT Kanpur** (`'30`), focused on security research, vulnerability analysis, and building practical systems. Most of my time is spent on reverse engineering, threat modeling, AI security, and writing lightweight tools.
+I'm a cybersecurity undergrad at **IIT Kanpur** (`30`), focused on security research, vulnerability analysis, and building practical systems. Most of my time is spent on reverse engineering, threat modeling, AI security, and writing lightweight tools.
 
 
 
