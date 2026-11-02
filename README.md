@@ -12,11 +12,11 @@ I'm a cybersecurity student at **IIT Kanpur** (`'30`), focused on security resea
 
 
 # Notable Projects
--> [srm-secure-browser-vulnerabilities](https://github.com/gvbytes/srm-secure-browser-vulnerabilities)** — In-depth audit notes and security analysis of client-side lockdown environments.
--> [mcp-security-auditor](https://github.com/gvbytes/mcp-security-auditor)** — Static analysis tool for vetting Model Context Protocol (MCP) server security.
--> [threatmind-ai](https://github.com/gvbytes/threatmind-ai)** — Automated threat modeling framework for web & cloud systems.
--> [UGacads](https://github.com/gvbytes/UGacads)** — Algorithmic Academic Pathway & Template Generator for IIT Kanpur undergraduates.
--> [Forge](https://github.com/gvbytes/Forge)** — A Small orchestration model with a Monaco-based web IDE and interactive terminal.
+- **[srm-secure-browser-vulnerabilities](https://github.com/gvbytes/srm-secure-browser-vulnerabilities)** — In-depth audit notes and security analysis of client-side lockdown environments.
+- **[mcp-security-auditor](https://github.com/gvbytes/mcp-security-auditor)** — Static analysis tool for vetting Model Context Protocol (MCP) server security.
+- **[threatmind-ai](https://github.com/gvbytes/threatmind-ai)** — Automated threat modeling framework for web & cloud systems.
+- **[UGacads](https://github.com/gvbytes/UGacads)** — Algorithmic Academic Pathway & Template Generator for IIT Kanpur undergraduates.
+- **[Forge](https://github.com/gvbytes/Forge)** — A Small orchestration model with a Monaco-based web IDE and interactive terminal.
 
 
 # Tech & Stack
